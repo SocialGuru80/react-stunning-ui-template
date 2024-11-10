@@ -7,9 +7,6 @@
 
 ---
 
-### **README.md**
-
-```markdown
 # React Stunning UI Template
 
 `react-stunning-ui-template` is a starter project for building visually stunning and modular web applications with React and TypeScript. This template is equipped with modern UI libraries, including Tailwind CSS for responsive styling, Framer Motion for animations, and Headless UI for accessible components. It’s optimized for a scalable, component-based architecture following atomic design principles.
